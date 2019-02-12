@@ -16,6 +16,8 @@ Ovo je zadnje deploymentovsko mesto.
 
 ## How to Contribute
 
+Nemoj doprinositi ptm!
+
 ### Kopirajt
 
 Traktor.com.hr 2019
