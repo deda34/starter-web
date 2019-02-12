@@ -3,6 +3,8 @@
 Pu pu tu tu ruuu. rebase.
 Ovo je samo neko testiranje da se malo uhodamo.
 
+Opa opet nakon rebasea.
+
 ## Introduction
 
 Tu tu tuuuu. NEki intro test.
