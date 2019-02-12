@@ -24,3 +24,4 @@ Nemoj doprinositi ptm!
 ### Kopirajt
 
 Traktor.com.hr 2019
+Sve je dozvoljeno!
