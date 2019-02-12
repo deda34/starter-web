@@ -15,3 +15,7 @@ Sluzba je sluzba test.
 Ovo je zadnje deploymentovsko mesto.
 
 ## How to Contribute
+
+### Kopirajt
+
+Traktor.com.hr 2019
